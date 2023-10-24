@@ -1,5 +1,5 @@
-import React from 'react';
-import '/.intro.css';
+import React from "react";
+import './intro.css';
 
 const Intro = () => {
     return (
@@ -7,4 +7,4 @@ const Intro = () => {
     )
 }
 
-export default Intro;
+export default Intro
